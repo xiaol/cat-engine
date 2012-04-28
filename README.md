@@ -1,4 +1,4 @@
 cat-engine
 ==========
 
-add scene to hge engine
+SVG engine based on HGE.
